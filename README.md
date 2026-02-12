@@ -1,2 +1,2 @@
 # FRISD
-Proketarbeit Syntax - Textbasierter Dungeon-Crawler
+Projektarbeit Syntax - Textbasierter Dungeon-Crawler
