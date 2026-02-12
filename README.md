@@ -5,6 +5,6 @@ Projektarbeit Syntax - Textbasierter Dungeon-Crawler
 
 Isabelle Scrummaster  
 Diana Datenbank Yipieeeeee  Yucheee
-Basti QA-Tester  
+Basti QA-Tester  "CHECK!"
 Roman/Felix Devs (Felix Frontend)
 hallo
